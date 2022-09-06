@@ -8,7 +8,7 @@ Aqui você poderá encontrar o manual do usuário das bibliotecas de concreto ar
 
 <ul>
     <li>Concreto Armado</li>
-    <ol>
+    <ol type = "1">
         <li>
             <a href="https://Coretectools.github.io/Manual/Ancoragem.html" target = "_blank" rel = "noopener noreferrer">Ancoragem</a>.
         </li>
