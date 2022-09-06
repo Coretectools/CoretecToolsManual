@@ -15,7 +15,7 @@ A plataforma Coretec Tools encontra-se na versão 2022.09.0.
     <li>Engenharia Civil</li>
     <ol>
         <li>
-            <a href="https://Coretectools.github.io/Manual/_pages/ConcretoArmado.html" target = "_blank" rel = "noopener noreferrer">Concreto Armado</a>.
+            <a href="https://Coretectools.github.io/Manual/ConcretoArmado.html" target = "_blank" rel = "noopener noreferrer">Concreto Armado</a>.
         </li>
     </ol>
 </ul>
