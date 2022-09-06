@@ -1,7 +1,7 @@
 <h2>Concreto Armado</h2>
 
 <p align="justify">
-Aqui você poderá encontrar o manual do usuário das bibliotecas de concreto armado.
+Aqui você poderá encontrar o manual do usuário das calculadoras para concreto armado.
 </p> 
 
 <h2>Índice</h2>
